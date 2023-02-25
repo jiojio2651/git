@@ -6,5 +6,6 @@ public class git {
         System.out.println("2.本地库文件的创建、添加、提交");
         System.out.println("3.本地库文件的创建、添加、提交");
         System.out.println("4.本地库文件的创建、添加、提交");
+        System.out.println("hot-fix test");
     }
 }
